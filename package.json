@@ -1,0 +1,17 @@
+{
+  "name": "mal_related_graph",
+  "version": "1.0.0",
+  "description": "2D Graph representation of a franchise on MyAnimeList",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
